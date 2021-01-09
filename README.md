@@ -24,6 +24,11 @@ In this session you will learn how Computer Vision was harnessed to address this
 
 **[Follow MS Learn Module](https://aka.ms/aiml10)**
 
+**Resources to redeliver:**
+* Presentation
+* Train-the-Trainer Video
+* Event Video and Q&A
+
 
 ## Session Code: AIML20
 **Session Title:** Extracting Value from Text and Audio to Inform Business Strategy 
@@ -36,6 +41,11 @@ In this session you’ll learn how Tailwind Traders took their support ticket te
 
 **[Follow MS Learn Module](https://aka.ms/aiml20)**
 
+**Resources to redeliver:**
+* Presentation
+* Train-the-Trainer Video
+* Event Video and Q&A
+
 ## Session Code: AIML30
 **Session Title:** Making Sense of your Unstructured Data with AI
 
@@ -46,6 +56,11 @@ In this session, you'll learn how the team use Azure Cognitive Search to make se
 **Key technologies included:** Azure Cognitive Search, Azure Cognitive Services, Azure Functions, Azure Storage
 
 **[Follow MS Learn Module](https://aka.ms/aiml30)**
+
+**Resources to redeliver:**
+* Presentation
+* Train-the-Trainer Video
+* Event Video and Q&A
 
 
 ## Session Code: AIML40
@@ -59,6 +74,11 @@ In this session you will see how Tailwind Traders applied Conversational AI best
 
 **[Follow MS Learn Module](https://aka.ms/bfcomposer)**
 
+**Resources to redeliver:**
+* Presentation
+* Train-the-Trainer Video
+* Event Video and Q&A
+
 
 ## Session Code: AIML50
 **Session Title:** Start Building Machine Learning Models Faster than You Think
@@ -70,3 +90,8 @@ In this session, you’ll learn the data science process that Tailwind Traders�
 **Key technologies included:** Azure Machine Learning Designer Jupyter Notebooks
 
 **[Follow MS Learn Module](https://aka.ms/aiml50)**
+
+**Resources to redeliver:**
+* Presentation
+* Train-the-Trainer Video
+* Event Video and Q&A
