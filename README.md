@@ -1,6 +1,16 @@
 # All Around Azure: A Developer's Guide to AI
 
-<usage of this repo>
+This repository contains a set of Azure AI Fundamental sessions and follow on resources. Each session has a powerpoint presentation, including video demos and also a train-the-trainer video showing the content creator delivering the session (an idea of how you could deliver it)
+
+Given many of us are now delivering content online only - we understand that sessions need to be shortened compared to in-person conferences. Each sessions content is 15 - 20 mins duration + 10- 15 mins of Q&A recommeneded
+
+We also have carefully chosen the follow on resources. Therefore all sessions have one single link at the end. If an attendee of your session is inspired this one next step is where to go. All resources point towards Microsoft Documentation and Microsoft Learn modules.
+
+This content was delivered during an **All Around Azure - A Developer's Guide to AI** on 18th November 2020 online in 3 time zones and 3 languages (Japanese, French and English). See the content in action using the links below:
+* [All Around Azure - A Developer's Guide to AI (Japanese)](https://www.youtube.com/watch?v=rjtt6y_1Nak)
+* [All Around Azure - A Developer's Guide to AI (French)](https://www.youtube.com/playlist?list=PL5Kprdw8GhxewNj_KmqMhmK0jOOzRQvZb)
+* [All Around Azure - A Developer's Guide to AI (English)](https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-A-Developers-Guide-to-AI)
+
 
 ### Title: Developers Guide to AI
 
@@ -12,6 +22,13 @@ In this learning path you will see a wide range of examples: dealing with differ
 ## Relevant Certifications:
 * [Exam AI-900: Microsoft Azure AI Fundamentals](https://aka.ms/ai900) 
 * [Exam AI-100: Designing and Implementing an Azure AI Solution](https://aka.ms/ai100cert)
+
+# Session List
+* [AIML10 - Introducing Computer Vision for Automation in Changing Times](#session-code:-AIML10)
+* [AIML20 - Extracting Value from Text and Audio to Inform Business Strategy]()
+* [AIML30 - Making Sense of your Unstructured Data with AI]()
+* [AIML40 - Improve Customer Engagement and Productivity with Conversational AI]()
+* [AIML50 - Start Building Machine Learning Models Faster than You Think]()
  
 
 ## Session Code: AIML10
@@ -95,3 +112,8 @@ In this session, youâ€™ll learn the data science process that Tailwind Tradersâ€
 * Presentation
 * Train-the-Trainer Video
 * Event Video and Q&A
+
+
+# Contributing
+
+TBC
