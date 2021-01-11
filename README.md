@@ -24,14 +24,14 @@ In this learning path you will see a wide range of examples: dealing with differ
 * [Exam AI-100: Designing and Implementing an Azure AI Solution](https://aka.ms/ai100cert)
 
 # Session List
-* [AIML10 - Introducing Computer Vision for Automation in Changing Times](#session-code:-AIML10)
+* [AIML10 - Introducing Computer Vision for Automation in Changing Times](#session-code-aiml10)
 * [AIML20 - Extracting Value from Text and Audio to Inform Business Strategy]()
 * [AIML30 - Making Sense of your Unstructured Data with AI]()
 * [AIML40 - Improve Customer Engagement and Productivity with Conversational AI]()
 * [AIML50 - Start Building Machine Learning Models Faster than You Think]()
  
 
-## Session Code: AIML10
+## Session Code AIML10
 **Session Title:** Introducing Computer Vision for Automation in Changing Times
 
 **Session Abstract:** In an effort to protect the wellbeing and safety of all employees during the global pandemic and promote social distancing, Tailwind Traders needed to reconsider its staffing model.  This has presented a challenge; quarterly inventory counts are happening in 4 weeks time and a reduction in staff means a longer inventory count period. 
