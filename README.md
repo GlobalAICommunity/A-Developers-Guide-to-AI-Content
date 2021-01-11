@@ -5,6 +5,8 @@ This repository contains a set of Azure AI Fundamental sessions and follow on re
 * Given many of us are now delivering content online only - we understand that sessions need to be shortened compared to in-person conferences. Each sessions content is 15 - 20 mins duration + 10- 15 mins of Q&A recommeneded
 * We also have carefully chosen the follow on resources. Therefore all sessions have one single link at the end. If an attendee of your session is inspired this one next step is where to go. All resources point towards [Microsoft Documentation](https://docs.microsoft.com/) and [Microsoft Learn modules](https://docs.microsoft.com/learn/).
 
+* I would recommend running the 15 - 20 mins confernece session, then provide 10-15 mins of open Q&A from the audience and setup a workshop element after the session for walking through the related MS Learn module
+
 ![All Around Azure Graphic](aaa-graphic.PNG)
 
 This content was delivered during an **[All Around Azure - A Developer's Guide to AI](https://aka.ms/allaroundazure-ai)** on 18th November 2020 online in 3 time zones and 3 languages (Japanese, French and English). See the content in action using the links below:
