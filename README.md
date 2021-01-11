@@ -98,9 +98,10 @@ In this session you will see how Tailwind Traders applied Conversational AI best
 **[Follow MS Learn Module](https://aka.ms/bfcomposer)**
 
 **Resources to redeliver:**
-* Presentation
-* Train-the-Trainer Video
-* Event Video and Q&A
+* [Presentation](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML40-PRESENTATION/AIML40%20-%20Improve%20Customer%20Engagement%20and%20Productivity%20with%20Conversational%20AI.pptx)
+* [Speaker Notes](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML40-PRESENTATION/AIML40-presentation-speakernotes.docx)
+* [Train-the-Trainer Video](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML40-VIDEOS/AIML40-VIDEOS/AIML40-Full%20Presentation.mp4)
+* [Event Video and Q&A](https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-A-Developers-Guide-to-AI/Improve-Customer-Engagement-and-Productivity-with-Conversational-AI)
 
 
 ## Session Code AIML50
