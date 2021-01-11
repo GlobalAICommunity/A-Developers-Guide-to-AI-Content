@@ -1,12 +1,13 @@
 # All Around Azure: A Developer's Guide to AI
 
-This repository contains a set of Azure AI Fundamental sessions and follow on resources. Each session has a powerpoint presentation, including video demos and also a train-the-trainer video showing the content creator delivering the session (an idea of how you could deliver it)
+This repository contains a set of Azure AI Fundamental sessions and follow on resources. 
+* Each session has a powerpoint presentation, including video demos and also a train-the-trainer video showing the content creator delivering the session (an idea of how you could deliver it)
+* Given many of us are now delivering content online only - we understand that sessions need to be shortened compared to in-person conferences. Each sessions content is 15 - 20 mins duration + 10- 15 mins of Q&A recommeneded
+* We also have carefully chosen the follow on resources. Therefore all sessions have one single link at the end. If an attendee of your session is inspired this one next step is where to go. All resources point towards [Microsoft Documentation](https://docs.microsoft.com/) and [Microsoft Learn modules](https://docs.microsoft.com/learn/).
 
-Given many of us are now delivering content online only - we understand that sessions need to be shortened compared to in-person conferences. Each sessions content is 15 - 20 mins duration + 10- 15 mins of Q&A recommeneded
+![All Around Azure Graphic](aaa-graphic.PNG)
 
-We also have carefully chosen the follow on resources. Therefore all sessions have one single link at the end. If an attendee of your session is inspired this one next step is where to go. All resources point towards Microsoft Documentation and Microsoft Learn modules.
-
-This content was delivered during an **All Around Azure - A Developer's Guide to AI** on 18th November 2020 online in 3 time zones and 3 languages (Japanese, French and English). See the content in action using the links below:
+This content was delivered during an **[All Around Azure - A Developer's Guide to AI](https://aka.ms/allaroundazure-ai)** on 18th November 2020 online in 3 time zones and 3 languages (Japanese, French and English). See the content in action using the links below:
 * [All Around Azure - A Developer's Guide to AI (Japanese)](https://www.youtube.com/watch?v=rjtt6y_1Nak)
 * [All Around Azure - A Developer's Guide to AI (French)](https://www.youtube.com/playlist?list=PL5Kprdw8GhxewNj_KmqMhmK0jOOzRQvZb)
 * [All Around Azure - A Developer's Guide to AI (English)](https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-A-Developers-Guide-to-AI)
