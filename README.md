@@ -116,9 +116,10 @@ In this session, youâ€™ll learn the data science process that Tailwind Tradersâ€
 **[Follow MS Learn Module](https://aka.ms/aiml50)**
 
 **Resources to redeliver:**
-* Presentation
-* Train-the-Trainer Video
-* Event Video and Q&A
+* [Presentation](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML50%20-%20PRESENTATION/AIML50-Start%20Building%20Machine%20Learning%20Models%20Faster%20than%20You%20Think.pptx)
+* [Speaker Notes](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML50%20-%20PRESENTATION/AIML50-presentation-speakernotes.docx)
+* [Train-the-Trainer Video](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML50-VIDEOS/AIML50-VIDEOS/AIML50-Full-Presentation.mp4)
+* [Event Video and Q&A](https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-A-Developers-Guide-to-AI/Start-Building-Machine-Learning-Models-Faster-than-You-Think)
 
 
 # Contributing
