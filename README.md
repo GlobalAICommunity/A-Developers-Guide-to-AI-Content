@@ -25,10 +25,10 @@ In this learning path you will see a wide range of examples: dealing with differ
 
 # Session List
 * [AIML10 - Introducing Computer Vision for Automation in Changing Times](#session-code-aiml10)
-* [AIML20 - Extracting Value from Text and Audio to Inform Business Strategy]()
-* [AIML30 - Making Sense of your Unstructured Data with AI]()
-* [AIML40 - Improve Customer Engagement and Productivity with Conversational AI]()
-* [AIML50 - Start Building Machine Learning Models Faster than You Think]()
+* [AIML20 - Extracting Value from Text and Audio to Inform Business Strategy](#session-code-aiml20)
+* [AIML30 - Making Sense of your Unstructured Data with AI](#session-code-aiml30)
+* [AIML40 - Improve Customer Engagement and Productivity with Conversational AI](#session-code-aiml40)
+* [AIML50 - Start Building Machine Learning Models Faster than You Think](#session-code-aiml50)
  
 
 ## Session Code AIML10
@@ -47,7 +47,7 @@ In this session you will learn how Computer Vision was harnessed to address this
 * Event Video and Q&A
 
 
-## Session Code: AIML20
+## Session Code AIML20
 **Session Title:** Extracting Value from Text and Audio to Inform Business Strategy 
 
 **Session Abstract:** Tailwind Traders have a great website and application for customers and partners. However, they are seeing an increased amount of support tickets regarding usage of these offerings. They want to store, analyse and extract insights from their text and audio data to make better product backlog decisions and reduce their support tickets. 
@@ -63,7 +63,7 @@ In this session you’ll learn how Tailwind Traders took their support ticket te
 * Train-the-Trainer Video
 * Event Video and Q&A
 
-## Session Code: AIML30
+## Session Code AIML30
 **Session Title:** Making Sense of your Unstructured Data with AI
 
 **Session Abstract:** Tailwind Traders have a lot of data often in unreadable formats such as Invoice PDFs, Product and Review images and inventory forms. They would like the ability to extract this rich information, analyze it and act on it.
@@ -80,7 +80,7 @@ In this session, you'll learn how the team use Azure Cognitive Search to make se
 * Event Video and Q&A
 
 
-## Session Code: AIML40
+## Session Code AIML40
 **Session Title:** Improve Customer Engagement and Productivity with Conversational AI
 
 **Session Abstract:** Tailwind Traders recent internal employee survey showed their employees are frustrated with lengthy processes for simple actions, such as booking vacation and other company benefits. They want to reduce the friction of reviewing and booking vacation so it’s a simple, easy and pleasant process for their employees.
@@ -97,7 +97,7 @@ In this session you will see how Tailwind Traders applied Conversational AI best
 * Event Video and Q&A
 
 
-## Session Code: AIML50
+## Session Code AIML50
 **Session Title:** Start Building Machine Learning Models Faster than You Think
 
 **Session Abstract:** Tailwind Traders are finding it difficult to accurately predict they inventory at their many different retail stores. They want to introduce custom machine learning models to help, without changing their Software Development Life Cycle. How? They are exploring Azure Machine Learning Designer. 
