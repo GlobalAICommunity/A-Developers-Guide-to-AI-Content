@@ -13,7 +13,9 @@ This content was delivered during an **[All Around Azure - A Developer's Guide t
 * [All Around Azure - A Developer's Guide to AI (English)](https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-A-Developers-Guide-to-AI)
 
 
-### Title: Developers Guide to AI
+# Content Overview
+
+### Title: A Developer's Guide to AI
 
 ### Abstract: 
 Artificial Intelligence (AI) is driving innovative solutions across all industries but with machine learning (ML) applying a paradigm change to how we approach building products we are all exploring how to expand our skill sets and enhance our applications
