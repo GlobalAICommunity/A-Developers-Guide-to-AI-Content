@@ -65,7 +65,12 @@ In this session you’ll learn how Tailwind Traders took their support ticket te
 **Resources to redeliver:**
 * [Presentation](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20%20-%20PRESENTATION/AIML20%20-%20Extracting%20Value%20from%20Text%20and%20Audio%20to%20Inform%20Business%20Strategy.pptx)
 * [Speaker Notes](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20%20-%20PRESENTATION/AIML20-presentation-speakernotes.docx)
-* [Train-the-Trainer Video](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20-VIDEOS/AIML20-Full%20Presentation.mp4)
+* [Train-the-Trainer Video](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20-VIDEOS/dry-runs/All%20Around%20Azure%20-%20AIML20_%20Amanda%20Wong.mp4)
+    * [Demo Video 1](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20-VIDEOS/AIML20-Demo1.mp4)
+    * [Demo Video 2](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20-VIDEOS/AIML20-Demo2.mp4)
+    * [Demo Video 3](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20-VIDEOS/AIML20-Demo3.mp4)
+    * [Demo Video 4](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20-VIDEOS/AIML20-Demo4.mp4)
+    * [Demo Video 5](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20-VIDEOS/AIML20-Demo5.mp4)
 * [Event Video and Q&A](https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-A-Developers-Guide-to-AI/Extracting-Value-from-Text-and-Audio-to-Inform-Business-Strategy)
 
 ## Session Code AIML30
@@ -83,6 +88,10 @@ In this session, you'll learn how the team use Azure Cognitive Search to make se
 * [Presentation](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML30-PRESENTATION/AIML30%20-%20Making%20Sense%20of%20your%20Unstructured%20Data%20with%20AI.pptx)
 * [Speaker Notes](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML30-PRESENTATION/AIML30-presentation-speakernotes.docx)
 * [Train-the-Trainer Video](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML30-VIDEOS/AIML30-Full%20Presentation.mp4)
+    * [Demo Video 1](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML30-VIDEOS/aiml30-demo1.mp4)
+    * [Demo Video 2](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML30-VIDEOS/aiml30-demo2.mp4)
+    * [Demo Video 3](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML30-VIDEOS/aiml30-demo3.mp4)
+    * [Demo Video 4](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML30-VIDEOS/aiml30-demo4.mp4)
 * [Event Video and Q&A](https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-A-Developers-Guide-to-AI/Making-Sense-of-your-Unstructured-Data-with-AI)
 
 
@@ -101,6 +110,10 @@ In this session you will see how Tailwind Traders applied Conversational AI best
 * [Presentation](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML40-PRESENTATION/AIML40%20-%20Improve%20Customer%20Engagement%20and%20Productivity%20with%20Conversational%20AI.pptx)
 * [Speaker Notes](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML40-PRESENTATION/AIML40-presentation-speakernotes.docx)
 * [Train-the-Trainer Video](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML40-VIDEOS/AIML40-VIDEOS/AIML40-Full%20Presentation.mp4)
+    * [Demo Video 1](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML40-VIDEOS/AIML40-VIDEOS/AIML40-DEMO1.mp4)
+    * [Demo Video 2](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML40-VIDEOS/AIML40-VIDEOS/AIML40-DEMO2.mp4)
+    * [Demo Video 3](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML40-VIDEOS/AIML40-VIDEOS/AIML40-DEMO3.mp4)
+    * [Demo Video 4](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML40-VIDEOS/AIML40-VIDEOS/AIML40-DEMO4.mp4)
 * [Event Video and Q&A](https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-A-Developers-Guide-to-AI/Improve-Customer-Engagement-and-Productivity-with-Conversational-AI)
 
 
