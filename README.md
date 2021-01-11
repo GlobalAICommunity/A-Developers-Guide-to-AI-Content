@@ -80,9 +80,10 @@ In this session, you'll learn how the team use Azure Cognitive Search to make se
 **[Follow MS Learn Module](https://aka.ms/aiml30)**
 
 **Resources to redeliver:**
-* Presentation
-* Train-the-Trainer Video
-* Event Video and Q&A
+* [Presentation](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML30-PRESENTATION/AIML30%20-%20Making%20Sense%20of%20your%20Unstructured%20Data%20with%20AI.pptx)
+* [Speaker Notes](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML30-PRESENTATION/AIML30-presentation-speakernotes.docx)
+* [Train-the-Trainer Video](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML30-VIDEOS/AIML30-Full%20Presentation.mp4)
+* [Event Video and Q&A](https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-A-Developers-Guide-to-AI/Making-Sense-of-your-Unstructured-Data-with-AI)
 
 
 ## Session Code AIML40
