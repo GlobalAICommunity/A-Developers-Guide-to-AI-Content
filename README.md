@@ -63,9 +63,10 @@ In this session you’ll learn how Tailwind Traders took their support ticket te
 **[Follow MS Learn Module](https://aka.ms/aiml20)**
 
 **Resources to redeliver:**
-* Presentation
-* Train-the-Trainer Video
-* Event Video and Q&A
+* [Presentation](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20%20-%20PRESENTATION/AIML20%20-%20Extracting%20Value%20from%20Text%20and%20Audio%20to%20Inform%20Business%20Strategy.pptx)
+* [Speaker Notes](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20%20-%20PRESENTATION/AIML20-presentation-speakernotes.docx)
+* [Train-the-Trainer Video](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML20-VIDEOS/AIML20-Full%20Presentation.mp4)
+* [Event Video and Q&A](https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-A-Developers-Guide-to-AI/Extracting-Value-from-Text-and-Audio-to-Inform-Business-Strategy)
 
 ## Session Code AIML30
 **Session Title:** Making Sense of your Unstructured Data with AI
