@@ -47,7 +47,7 @@ In this session you will learn how Computer Vision was harnessed to address this
 **[Follow MS Learn Module](https://aka.ms/aiml10)**
 
 **Resources to redeliver:**
-* [Presentation](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML10-PRESENTATION/AIML10-%20Introducing%20Computer%20Vision%20for%20Automation%20in%20Changing%20Times_V2.pptx)
+* [Presentation](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML10-PRESENTATION/AIML10 - Introducing Computer Vision for Automation in Changing Times_V2.pptx)
 * [Speaker Notes](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML10-PRESENTATION/AIML10-presentation-speakernotes.docx)
 * [Train-the-Trainer Video](https://gaicstor2020.blob.core.windows.net/gaic-dgtai/AIML10-VIDEOS/AIML10%20-%20Full%20Presentation.mp4)
 * [Event Video and Q&A](https://channel9.msdn.com/Events/All-Around-Azure/All-Around-Azure-A-Developers-Guide-to-AI/Introducing-Computer-Vision-for-Automation-in-Changing-Times)
